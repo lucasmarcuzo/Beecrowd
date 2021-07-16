@@ -25,7 +25,7 @@
             <tr>
                 <td>1000 - Hello World!</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1000%20-%20Hello%20World!.cs">Ver em C#</a></td>
-                <td><a href="">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1000_Hello%20World!">Ver em Java</a></td>
             </tr>
             <tr>
              <td>1001 - Extremamente Básico</td>
