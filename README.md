@@ -537,6 +537,38 @@
      </div>
 </details>
 
+
+<details>
+    <summary><strong> AD-HOC </strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4">AD-HOC</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Problema</th>
+                <th>C#</th>
+                <th>Java</th>
+            </tr>
+            <tr>
+              <td>1769 - CPF 1</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1769%20-%20CPF%201.cs">Ver em C#</a></td>
+                <td><a href="">❌</a></td>
+            </tr>
+            <tr>
+             <td>1786 - CPF 2</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1786%20-%20CPF%202.cs">Ver em C#</a></td>
+                <td><a href="">❌</a></td>
+            </tr>
+            <tr>
+     </table>
+     </div>
+</details>
+
 **Obs:** Nos desafios feitos em Java, é utilizado Java 14.
 
 ## 📱 Contato:
