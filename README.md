@@ -1,4 +1,4 @@
-# Problemas realizados no URI ONLINE JUDGE em ![C# Badge](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white")
+# Problemas realizados no URI ONLINE JUDGE em: ![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white") ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white")
 
 <p align="center">
 <img  width="200"  height="100"  src="https://www.urionlinejudge.com.br/judge/img/5.0/logo.130615.png?1591503281">
@@ -25,7 +25,7 @@
             <tr>
                 <td>1000 - Hello World!</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1000%20-%20Hello%20World!.cs">Ver em C#</a></td>
-                <td><a href="">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1000_Hello%20World!">Ver em Java</a></td>
             </tr>
             <tr>
              <td>1001 - Extremamente Básico</td>
