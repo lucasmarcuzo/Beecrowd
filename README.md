@@ -7,12 +7,12 @@
 ## <img width="25" height="25" src="https://www.urionlinejudge.com.br/judge/favicon.ico?1591503281"> Desafios Solucionados:
 
 <details>
-    <summary><strong> Iniciante </strong></summary>
+    <summary><strong> 1 - Iniciante </strong></summary>
     <br />
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4">Iniciante</th>
+                <th colspan="4">1 - Iniciante</th>
             </tr>
             <tr>
                 <th colspan="4"></th>
@@ -308,17 +308,17 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1095_Sequencia%20IJ%201">Ver em Java</a></td>
             </tr>
             <tr>
-             <td>1095 - Sequencia IJ 2</td>
+             <td>1096 - Sequencia IJ 2</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1096%20-%20Sequencia%20IJ%202.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1096_Sequencia%20IJ%202">Ver em Java</a></td>
             </tr>
             <tr>
-            <td>1095 - Sequencia IJ 3</td>
+            <td>1097 - Sequencia IJ 3</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1097%20-%20Sequencia%20IJ%203.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1097_Sequencia%20IJ%203">Ver em Java</a></td>
             </tr>
             <tr>
-             <td>1095 - Sequencia IJ 4</td>
+             <td>1098 - Sequencia IJ 4</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1098%20-%20Sequencia%20IJ%204.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1098_Sequencial%20IJ%204">Ver em Java</a></td>
             </tr>
@@ -539,7 +539,7 @@
 
 
 <details>
-    <summary><strong> AD-HOC </strong></summary>
+    <summary><strong> 2 - AD-HOC </strong></summary>
     <br />
     <div align="left">
         <table border=1>
