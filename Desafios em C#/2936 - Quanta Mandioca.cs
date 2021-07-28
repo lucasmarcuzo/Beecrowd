@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Developed by: @LucasMarcuzo
+
 namespace _2936___Quanta_Mandioca
 {
     class Program
