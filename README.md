@@ -639,7 +639,7 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4">AD-HOC</th>
+                <th colspan="4">2 - AD-HOC</th>
             </tr>
             <tr>
                 <th colspan="4"></th>
@@ -676,6 +676,11 @@
             <tr>
                 <th colspan="4"></th>
            </tr>
+            <tr>
+                <th>Problema</th>
+                <th>C#</th>
+                <th>Java</th>
+            </tr>
             <tr>
               <td>1240 - Encaixa ou Não I</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1240%20-%20Encaixa%20ou%20N%C3%A3o%20I.cs">Ver em C#</a></td>
