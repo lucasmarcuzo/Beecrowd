@@ -7,12 +7,12 @@
 ## <img width="25" height="25" src="https://www.urionlinejudge.com.br/judge/favicon.ico?1591503281"> Desafios Solucionados:
 
 <details>
-    <summary><strong> 1 - Iniciante </strong></summary>
+    <summary><strong> 1 - INICIANTE </strong></summary>
     <br />
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4">1 - Iniciante</th>
+                <th colspan="4">1 - INICIANTE</th>
             </tr>
             <tr>
                 <th colspan="4"></th>
@@ -563,6 +563,33 @@
              <td>1786 - CPF 2</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1786%20-%20CPF%202.cs">Ver em C#</a></td>
                 <td><a href="">❌</a></td>
+            </tr>
+            <tr>
+     </table>
+     </div>
+</details>
+
+
+<details>
+    <summary><strong> 5 - MATEMÁTICA </strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4">5 - MATEMÁTICA</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+           </tr>
+            <tr>
+              <td>1240 - Encaixa ou Não I</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1240%20-%20Encaixa%20ou%20N%C3%A3o%20I.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1240_Encaixa%20ou%20N%C3%A3o%20I">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>1169 - Trigo no Tabuleiro</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1169%20-%20Trigo%20no%20Tabuleiro.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1169_Trigo%20no%20Tabuleiro">Ver em Java</a></td>
             </tr>
             <tr>
      </table>
