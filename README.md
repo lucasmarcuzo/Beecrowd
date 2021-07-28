@@ -100,7 +100,7 @@
             <tr>
              <td>1015 - Distância Entre Dois Pontos</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1015%20-%20Dist%C3%A2ncia%20Entre%20Dois%20Pontos.cs">Ver em C#</a></td>
-                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1015_DistanciaEntreDoisPontos">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1015_Distancia%20Entre%20Dois%20Pontos">Ver em Java</a></td>
             </tr>
             <tr>
              <td>1016 - Distância</td>
@@ -125,7 +125,7 @@
             <tr>
              <td>1020 - Idade em Dias</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1020%20-%20Idade%20em%20Dias.cs">Ver em C#</a></td>
-                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1020_Distancia%20Entre%20Dois%20Pontos">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1020_Idade%20em%20Dias">Ver em Java</a></td>
             </tr>
             <tr>
              <td>1021 - Notas e Moedas</td>
@@ -413,6 +413,11 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1149_Somando%20Inteiros%20Consecutivos">Ver em Java</a></td>
             </tr>
             <tr>
+             <td>1150 - Ultrapassando Z</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1150%20-%20Ultrapassando%20Z.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1150_Ultrapassando%20Z">Ver em Java</a></td>
+             </tr>
+            <tr>
             <td>1151 - Fibonacci Fácil</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1151%20-%20Fibonacci%20F%C3%A1cil.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1151_Fibonacci%20F%C3%A1cil">Ver em Java</a></td>
@@ -428,6 +433,11 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1154_Idades">Ver em Java</a></td>
             </tr>
             <tr>
+             <td>1155 - Sequência S</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1155%20-%20Sequ%C3%AAncia%20S.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1155_Sequ%C3%AAncia%20S">Ver em Java</a></td>
+            </tr>
+            <tr>
              <td>1157 - Divisores I</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1157%20-%20Divisores%20I.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1157_Divisores%20I">Ver em Java</a></td>
@@ -436,6 +446,16 @@
               <td>1158 - Soma de Ímpares Consecutivos III</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1158%20-%20Soma%20de%20%C3%8Dmpares%20Consecutivos%20III.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1158_Soma%20de%20%C3%8Dmpares%20Consecutivos%20III">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>1159 - Soma de Pares Consecutivos</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1159%20-%20Soma%20de%20Pares%20Consecutivos.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1159_Soma%20de%20Pares%20Consecutivos">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>1164 - Número Perfeito</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1164%20-%20N%C3%BAmero%20Perfeito.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1164_N%C3%BAmero%20Perfeito">Ver em Java</a></td>
             </tr>
             <tr>
              <td>1165 - Número Primo</td>
@@ -483,6 +503,26 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1180_Menor%20e%20Posi%C3%A7%C3%A3o">Ver em Java</a></td>
             </tr>
             <tr>
+             <td>1187 - Área Superior</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1187%20-%20%C3%81rea%20Superior.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1187_%C3%81rea%20Superior">Ver em Java</a></td>
+            </tr>
+            <tr>
+               <td>1188 - Área Inferior</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1188%20-%20%C3%81rea%20Inferior.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1188_%C3%81rea%20Inferior">Ver em Java</a></td>
+            </tr>
+            <tr>
+              <td>1189 - Área Esquerda</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1189%20-%20%C3%81rea%20Esquerda.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1189_%C3%81rea%20Esquerda">Ver em Java</a></td>
+            </tr>
+            <tr>
+              <td>1190 - Área Direita</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1190%20-%20%C3%81rea%20Direita.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1190_%C3%81rea%20Direita">Ver em Java</a></td>
+            </tr>
+            <tr>
               <td>1589 - Bob Conduite</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1589%20-%20Bob%20Conduite.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1589_Bob%20Conduite">Ver em Java</a></td>
@@ -491,6 +531,11 @@
              <td>1828 - BAZINGA!</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1828%20-%20BAZINGA!.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1828_Bazinga!">Ver em Java</a></td>
+            </tr>
+            <tr>
+              <td>1837 - Prefácio</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1837%20-%20Pref%C3%A1cio.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1837_Pref%C3%A1cio">Ver em Java</a></td>
             </tr>
             <tr>
              <td>1865 - Mjölnir</td>
@@ -523,14 +568,64 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2146_Senha">Ver em Java</a></td>
             </tr>
             <tr>
-            <td>2581 - I am Toorg!</td>
+             <td>2165 - Tuitando</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2165%20-%20Tuitando.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2165_Tuitando">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>2581 - I am Toorg!</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2581%20-%20I%20am%20Toorg!.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2581_I%20am%20Toorg!">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>2763 - Entrada e Saída CPF</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2763%20-%20Entrada%20e%20Sa%C3%ADda%20CPF.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2763%20-%20Entrada%20e%20Sa%C3%ADda%20CPF">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>2779 - Álbum da Copa</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2779%20-%20%C3%81lbum%20da%20Copa.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2779_%C3%81lbum%20da%20Copa">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>2787 - Xadrez</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2787%20-%20Xadrez.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2787_Xadrez">Ver em Java</a></td>
+            </tr>
+            <tr>
+              <td>2862 - Inseto!</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2862%20-%20Inseto!.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2862_Inseto!">Ver em Java</a></td>
             </tr>
             <tr>
              <td>2936 - Quanta Mandioca</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2936%20-%20Quanta%20Mandioca.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2936_Quanta%20Mandioca">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>3040 - A Árvore de Natal</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/3040%20-%20A%20%C3%81rvore%20de%20Natal.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/3040_A%20%C3%81rvore%20de%20Natal">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>3299 - Numeros Má Sorte Pequenos</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/3299%20-%20Numeros%20M%C3%A1%20Sorte%20Pequenos.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/3299_N%C3%BAmeros%20M%C3%A1%20Sorte%20Pequenos">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>3301 - Sobrinho do Meio</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/3301%20-%20Sobrinho%20do%20Meio.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/3301%20-%20Sobrinho%20do%20Meio">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>3302 - Resposta Certa</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/3302%20-%20Resposta%20Certa.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/3302_Resposta%20Certa">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>3303 - Palavrão</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/3303%20-%20Palavr%C3%A3o.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/3303_Palavr%C3%A3o">Ver em Java</a></td>
             </tr>
             <tr>
       </table>
