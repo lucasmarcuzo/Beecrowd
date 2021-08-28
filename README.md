@@ -578,6 +578,11 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2581_I%20am%20Toorg!">Ver em Java</a></td>
             </tr>
             <tr>
+              <td>2717 - Tempo do Doende</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2717%20-%20Tempo%20do%20Duende.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2717_Tempo%20do%20Duende">Ver em Java</a></td>
+            </tr>
+            <tr>
              <td>2763 - Entrada e Saída CPF</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2763%20-%20Entrada%20e%20Sa%C3%ADda%20CPF.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2763%20-%20Entrada%20e%20Sa%C3%ADda%20CPF">Ver em Java</a></td>
