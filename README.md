@@ -573,6 +573,11 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2165_Tuitando">Ver em Java</a></td>
             </tr>
             <tr>
+              <td>2510 - Batmain</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2510%20-%20Batmain.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2510_Batmain">Ver em Java</a></td>
+            </tr>
+            <tr>
              <td>2581 - I am Toorg!</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2581%20-%20I%20am%20Toorg!.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2581_I%20am%20Toorg!">Ver em Java</a></td>
@@ -668,6 +673,33 @@
      </table>
      </div>
 </details>
+
+<details>
+    <summary><strong> 4 - ESTRUTURAS E BIBLIOTECAS </strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4">4 - ESTRUTURAS E BIBLIOTECAS</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Problema</th>
+                <th>C#</th>
+                <th>Java</th>
+            </tr>
+            <tr>
+              <td>3163 - Controlador de Vôo</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/3163%20-%20Controlador%20de%20V%C3%B4o.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/3163_Controlador%20de%20V%C3%B4o">Ver em Java</a></td>
+            </tr>
+            <tr>    
+     </table>
+     </div>
+</details>
+
 
 
 <details>
