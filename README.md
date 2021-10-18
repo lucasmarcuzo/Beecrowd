@@ -528,6 +528,11 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1589_Bob%20Conduite">Ver em Java</a></td>
             </tr>
             <tr>
+               <td>1759 - Ho Ho Ho</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1759%20-%20Ho%20Ho%20Ho.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1759_Ho%20Ho%20Ho">Ver em Java</a></td>
+            </tr>
+            <tr>
              <td>1828 - BAZINGA!</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1828%20-%20BAZINGA!.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1828_Bazinga!">Ver em Java</a></td>
@@ -553,6 +558,11 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1930_Tomadas">Ver em Java</a></td>
             </tr>
             <tr>
+              <td>1959 - Polígonos Regulares Simples/td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1959%20-%20Pol%C3%ADgonos%20Regulares%20Simples.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1959_Pol%C3%ADgonos%20Regulares%20Simples">Ver em Java</a></td>
+            </tr>
+            <tr>
              <td>1985 - MacPRONALTS</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1985%20-%20MacPRONALTS.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1985_Mac%20PRONALTS">Ver em Java</a></td>
@@ -561,6 +571,11 @@
             <td>2006 - Identificando o Chá</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2006%20-%20Identificando%20o%20Ch%C3%A1.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2006_Identificando%20o%20Ch%C3%A1">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>2029 - Reservatório de Mel</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2029%20-%20Reservat%C3%B3rio%20de%20Mel.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2029_Reservat%C3%B3rio%20de%20Mel">Ver em Java</a></td>
             </tr>
             <tr>
              <td>2146 - Senha</td>
@@ -591,6 +606,11 @@
              <td>2763 - Entrada e Saída CPF</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2763%20-%20Entrada%20e%20Sa%C3%ADda%20CPF.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2763%20-%20Entrada%20e%20Sa%C3%ADda%20CPF">Ver em Java</a></td>
+            </tr>
+            <tr>
+              <td>2770 - Tamanho da Placa</td>
+                <td><a href="">❌</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2770_Tamanho%20da%20Placa">Ver em Java</a></td>
             </tr>
             <tr>
              <td>2779 - Álbum da Copa</td>
@@ -727,6 +747,11 @@
              <td>1169 - Trigo no Tabuleiro</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1169%20-%20Trigo%20no%20Tabuleiro.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1169_Trigo%20no%20Tabuleiro">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>1921 - Guilherme e Suas Pipas</td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1921%20-%20Guilherme%20e%20Suas%20Pipas.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1921_Guilherme%20e%20Suas%20Pipas">Ver em Java</a></td>
             </tr>
             <tr>
      </table>
