@@ -1,0 +1,17 @@
+//Developed by: @LucasMarcuzo
+
+import java.util.Scanner
+
+fun main(args: Array<String>) {
+    
+    val input = Scanner(System.`in`)
+    
+    val a = input.nextInt()
+    val b = input.nextInt()
+    val c = input.nextInt()
+    val d = input.nextInt()
+    
+    val diferenca = a * b - c * d    
+    
+    println("DIFERENCA = " + diferenca) 
+}

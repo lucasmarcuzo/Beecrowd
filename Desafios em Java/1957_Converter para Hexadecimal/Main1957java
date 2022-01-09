@@ -1,0 +1,21 @@
+import java.util.*;
+
+//Developed by: @LucasMarcuzo
+
+public class Main1957
+{
+    public static void main(String[] args) {
+        Scanner scan = new Scanner(System.in);
+
+        int x = scan.nextInt();
+
+        String y = Integer.toHexString(x);
+
+        System.out.println(y.toUpperCase());
+               
+        scan.close();
+
+    }
+}
+
+
