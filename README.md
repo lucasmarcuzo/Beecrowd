@@ -757,12 +757,12 @@
             <tr>  
               <td>1769 - CPF 1</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1769%20-%20CPF%201.cs">Ver em C#</a></td>
-                <td><a href="">❌</a></td>
+                <td><a href=""></a></td>
             </tr>
             <tr>
              <td>1786 - CPF 2</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1786%20-%20CPF%202.cs">Ver em C#</a></td>
-                <td><a href="">❌</a></td>
+                <td><a href=""></a></td>
             </tr>
             <tr>   
              <td>2409 - Colchão</td>
@@ -873,12 +873,17 @@
               <td>1408 - Mário</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1408%20-%20M%C3%A1rio.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1408_M%C3%A1rio">Ver em Java</a></td>
+           </tr>
+           <tr>     
+     </table>
+     </div>
+</details>  
 
 **Obs:** Nos desafios realizados em Java, é utilizado Java 14.
 
-# 📱 Contato:
+## 📱 Contato:
 
-[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whiteColor=white&link=https://github.com/lucasmarcuzo)](https://github.com/lucasmarcuzo) [![LinkedIn Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=white&link=https://www.linkedin.com/in/lucasmarcuzo/)](https://www.linkedin.com/in/lucasmarcuzo/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://facebook.com/LucasMarcuzzo)](https://facebook.com/LucasMarcuzzo) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/lucassolace)](https://twitter.com/lucassolace) [![DIO Badge](https://img.shields.io/badge/Digital%20Inovation%20One-red?style=for-the-badge&link=https://web.dio.me/users/lucas_marcuzo)](https://web.dio.me/users/lucas_marcuzo)  [![Beecrowd](https://img.shields.io/badge/beecrowd-purple?style=for-the-badge&link=https://resources.beecrowd.com.br/judge/favicon.ico?1635097036)](https://www.beecrowd.com.br/judge/pt/profile/510115)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whiteColor=white&link=https://github.com/lucasmarcuzo)](https://github.com/lucasmarcuzo) [![LinkedIn Badge](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=white&link=https://www.linkedin.com/in/lucasmarcuzo/)](https://www.linkedin.com/in/lucasmarcuzo/) [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&link=https://facebook.com/LucasMarcuzzo)](https://facebook.com/LucasMarcuzzo) [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/lucassolace)](https://twitter.com/lucassolace) [![Spotify Badge]( https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&https://open.spotify.com/user/12186237186?si=a631a4d1b13b441b)](https://open.spotify.com/user/12186237186?si=a631a4d1b13b441b) [![DIO Badge](https://img.shields.io/badge/Digital%20Inovation%20One-red?style=for-the-badge&link=https://web.dio.me/users/lucas_marcuzo)](https://web.dio.me/users/lucas_marcuzo) [![Beecrowd](https://img.shields.io/badge/beecrowd-purple?style=for-the-badge&link=https://resources.beecrowd.com.br/judge/favicon.ico?1635097036)](https://www.beecrowd.com.br/judge/pt/profile/510115)
 
 # 📃Licenças:
 
