@@ -303,11 +303,6 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1080_Maior%20e%20Posi%C3%A7%C3%A3o">Ver em Java</a></td>
             </tr>
             <tr>
-             <td>1087 - Dama</td>
-                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1087%20-%20Dama.cs">Ver em C#</a></td>
-                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1087_Dama">Ver em Java</a></td>
-            </tr>
-            <tr>
              <td>1094 - Experiências</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1094%20-%20Experi%C3%AAncias.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1094_Experi%C3%AAncias">Ver em Java</a></td>
@@ -537,7 +532,7 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1190%20-%20%C3%81rea%20Direita.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1190_%C3%81rea%20Direita">Ver em Java</a></td>
             </tr>
-            <tr>
+            <tr>   
               <td>1564 - Vai Ter Copa</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1564%20-%20Vai%20Ter%20Copa.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1564_Vai%20Ter%20Copa">Ver em Java</a></td>
@@ -625,14 +620,9 @@
             <tr>     
              <td>2235 - Andando no Tempo</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2235%20-%20Andando%20no%20Tempo.cs">Ver em C#</a></td>
-                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2235%20-%20Andando%20no%20Tempo">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2235_Andando%20no%20Tempo">Ver em Java</a></td>
             </tr>
-            <tr>
-             <td>2409 - Colchão</td>
-                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2409%20-%20Colch%C3%A3o.cs">Ver em C#</a></td>
-                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2409%20-%20Colch%C3%A3oo">Ver em Java</a></td>
-            </tr>
-            <tr>   
+            <tr> 
              <td>2483 - Feliz Nataaal!</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2483%20-%20Feliz%20Nataaal!.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2483_Feliz%20Nataaal!">Ver em Java</a></td>
@@ -647,17 +637,7 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2581%20-%20I%20am%20Toorg!.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2581_I%20am%20Toorg!">Ver em Java</a></td>
             </tr>
-            <tr>
-             <td>2597 - Xenlongão</td>
-                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2597%20-%20Xenlong%C3%A3o.cs">Ver em C#</a></td>
-                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2597_Xenlong%C3%A3o">Ver em Java</a></td>
-            </tr>
-            <tr>   
-             <td>2679 - Sucessor Par</td>
-                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2679%20-%20Sucessor%20Par.cs">Ver em C#</a></td>
-                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2679_Sucessor%20Par">Ver em Java</a></td>
-            </tr>
-            <tr>    
+            <tr>  
              <td>2685 - A Mudança</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2685%20-%20A%20Mudan%C3%A7a.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2685_A%20Mudan%C3%A7a">Ver em Java</a></td>
@@ -665,7 +645,7 @@
             <tr>    
              <td>2686 - A Mudança Continua!!</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2686%20-%20A%20Mudan%C3%A7a%20Continua!!.cs">Ver em C#</a></td>
-                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2686%20-%20A%20Mudan%C3%A7a%20Continua!!">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2686_A%20Mudan%C3%A7a%20Continua!!">Ver em Java</a></td>
             </tr>
             <tr>   
               <td>2717 - Tempo do Doende</td>
@@ -675,12 +655,12 @@
             <tr>
               <td>2747 - Saída 1</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2747%20-%20Sa%C3%ADda%201.cs">Ver em C#</a></td>
-                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2747%20-%20Sa%C3%ADda%201">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2747_Sa%C3%ADda%201">Ver em Java</a></td>
             </tr>
             <tr>   
               <td>2754 - Saída 8</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2754%20-%20Sa%C3%ADda%208.cs">Ver em C#</a></td>
-                <td><a href="">❌</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2754_Sa%C3%ADda%208">Ver em Java</a></td>
             </tr>
             <tr>  
               <td>2757 - Entrada e Saída de Números Inteiros</td>
@@ -690,7 +670,7 @@
             <tr>    
              <td>2763 - Entrada e Saída CPF</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2763%20-%20Entrada%20e%20Sa%C3%ADda%20CPF.cs">Ver em C#</a></td>
-                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2763%20-%20Entrada%20e%20Sa%C3%ADda%20CPF">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2763_Entrada%20e%20Sa%C3%ADda%20CPF">Ver em Java</a></td>
             </tr>
             <tr>
               <td>2770 - Tamanho da Placa</td>
@@ -735,7 +715,7 @@
             <tr>
              <td>3301 - Sobrinho do Meio</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/3301%20-%20Sobrinho%20do%20Meio.cs">Ver em C#</a></td>
-                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/3301%20-%20Sobrinho%20do%20Meio">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/3301_Sobrinho%20do%20Meio">Ver em Java</a></td>
             </tr>
             <tr>
              <td>3302 - Resposta Certa</td>
@@ -770,6 +750,11 @@
                 <th>Java</th>
             </tr>
             <tr>
+              <td>1087 - Dama</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1087%20-%20Dama.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1087_Dama">Ver em Java</a></td>
+            </tr>
+            <tr>  
               <td>1769 - CPF 1</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1769%20-%20CPF%201.cs">Ver em C#</a></td>
                 <td><a href="">❌</a></td>
@@ -779,7 +764,15 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1786%20-%20CPF%202.cs">Ver em C#</a></td>
                 <td><a href="">❌</a></td>
             </tr>
-            <tr>
+            <tr>   
+             <td>2409 - Colchão</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2409%20-%20Colch%C3%A3o.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2409%20-%20Colch%C3%A3oo">Ver em Java</a></td>
+            </tr>
+            <tr>    
+             <td>2679 - Sucessor Par</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2679%20-%20Sucessor%20Par.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2679_Sucessor%20Par">Ver em Java</a></td>
      </table>
      </div>
 </details>
@@ -844,9 +837,42 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1921_Guilherme%20e%20Suas%20Pipas">Ver em Java</a></td>
             </tr>
             <tr>
+             <td>2596 - Xenlonguinho</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2596%20-%20Xenlonguinho.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2596_Xenlonguinho">Ver em Java</a></td>
+            </tr>
+            <tr>    
+             <td>2597 - Xenlongão</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2597%20-%20Xenlong%C3%A3o.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2597_Xenlong%C3%A3o">Ver em Java</a></td>
+            </tr>
+            <tr>     
      </table>
      </div>
 </details>
+
+
+
+<details>
+    <summary><strong> 6 - PARADIGMAS </strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4">6 - PARADIGMAS</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+           </tr>
+            <tr>
+                <th>Problema</th>
+                <th>C#</th>
+                <th>Java</th>
+            </tr>
+            <tr>
+              <td>1408 - Mário</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1408%20-%20M%C3%A1rio.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1408_M%C3%A1rio">Ver em Java</a></td>
 
 **Obs:** Nos desafios realizados em Java, é utilizado Java 14.
 
