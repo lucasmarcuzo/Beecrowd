@@ -1,5 +1,7 @@
 ﻿using System;
 
+//Developed by: @LucasMarcuzo
+
 namespace _2510___Batmain
 {
     public class URI{
