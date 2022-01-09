@@ -1,6 +1,7 @@
-# Problemas realizados no Beecrowd em: ![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white) ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5??style=flat&logo=kotlin&logoColor=white)
+# Problemas realizados no Beecrowd em: [![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java) [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5??style=flat&logo=kotlin&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotli)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin)
 
 <p align="center">
+<a href="https://www.beecrowd.com.br">
 <img  width="200"  height="100"  src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036">
 </p>
 
@@ -887,7 +888,9 @@
 
 # 📃Licenças:
 
-![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Beecrowd) 
+[![C# Badge](https://img.shields.io/github/license/lucasmarcuzo/Beecrowd?&link=https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)   
+    
+    
 - Todos os projetos deste diretório tem licença MIT.
 
 
