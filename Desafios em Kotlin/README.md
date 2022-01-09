@@ -1,6 +1,6 @@
-# Beecrowd em ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+# Beecrowd em ![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 
-<h2> Desafios realizados no Beecrowd em Java. </h2><br/>
+<h2> Desafios realizados no Beecrowd em Kotlin.</h2> <br/>
 
 
 ## 📱 Contato: 
