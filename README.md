@@ -514,6 +514,26 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1180_Menor%20e%20Posi%C3%A7%C3%A3o">Ver em Java</a></td>
             </tr>
             <tr>
+              <td>1183 - Acima da Diagonal Principal</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1183%20-%20Acima%20da%20Diagonal%20Principal.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1183_Acima%20da%20Diagonal%20Principal">Ver em Java</a></td>
+            </tr>
+            <tr>            
+              <td>1184 - Abaixo da Diagonal Principal</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1184%20-%20Abaixo%20da%20Diagonal%20Principal.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1184_Abaixo%20da%20Diagonal%20Principal">Ver em Java</a></td>
+            </tr>
+            <tr>             
+              <td>1185 - Acima da Diagonal Secundária</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1185%20-%20Acima%20da%20Diagonal%20Secund%C3%A1ria.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1185_Acima%20da%20Diagonal%20Secund%C3%A1ria">Ver em Java</a></td>
+            </tr>
+            <tr>             
+              <td>1186 - Abaixo da Diagonal Secundária</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1186%20-%20Abaixo%20da%20Diagonal%20Secund%C3%A1ria.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1186_Abaixo%20da%20Diagonal%20Secund%C3%A1ria">Ver em Java</a></td>
+            </tr>
+            <tr>
              <td>1187 - Área Superior</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1187%20-%20%C3%81rea%20Superior.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1187_%C3%81rea%20Superior">Ver em Java</a></td>
@@ -765,7 +785,17 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1786%20-%20CPF%202.cs">Ver em C#</a></td>
                 <td><a href=""></a></td>
             </tr>
-            <tr>   
+            <tr>  
+             <td>1893 - Fases da Lua</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1893%20-%20Fases%20da%20Lua.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1893_Fases%20da%20Lua">Ver em Java</a></td>
+            </tr>
+            <tr>             
+             <td>1943 - Top N</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1943%20-%20Top%20N.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1943_Top%20N">Ver em Java</a></td>
+            </tr>
+            <tr>
              <td>2409 - Colchão</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2409%20-%20Colch%C3%A3o.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2409%20-%20Colch%C3%A3oo">Ver em Java</a></td>
