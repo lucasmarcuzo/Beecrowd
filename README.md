@@ -775,6 +775,11 @@
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1087%20-%20Dama.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1087_Dama">Ver em Java</a></td>
             </tr>
+            <tr>
+             <td>1171 - Frequência de Números</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1171%20-%20Frequ%C3%AAncia%20de%20N%C3%BAmeros.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1171_Frequ%C3%AAncia%20de%20N%C3%BAmeros">Ver em Java</a></td>
+            </tr>
             <tr>  
               <td>1769 - CPF 1</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1769%20-%20CPF%201.cs">Ver em C#</a></td>
@@ -800,13 +805,50 @@
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2409%20-%20Colch%C3%A3o.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2409%20-%20Colch%C3%A3oo">Ver em Java</a></td>
             </tr>
+            <tr> 
+             <td>2444 - Volume da TV</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2444%20-%20Volume%20da%20TV.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2444_Volume%20da%20TV">Ver em Java</a></td>
+            </tr>
             <tr>    
              <td>2679 - Sucessor Par</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2679%20-%20Sucessor%20Par.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2679_Sucessor%20Par">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>2927 - Imprevistos Natalinos</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2927%20-%20Imprevistos%20Natalinos.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2927_Imprevistos%20Natalinos">Ver em Java</a></td>
      </table>
      </div>
 </details>
+    
+<details>
+    <summary><strong> 3 - STRINGS </strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4"> 3 - STRINGS</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+            </tr>
+            <tr>
+                <th>Problema</th>
+                <th>C#</th>
+                <th>Java</th>
+            </tr>
+            <tr>
+              <td>2150 - Vogais Alienígenas</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2150%20-%20Vogais%20Alien%C3%ADgenas.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2150_Vogais%20Alien%C3%ADgenas">Ver em Java</a></td>
+            </tr>
+            <tr>    
+     </table>
+     </div>
+</details>    
+    
 
 <details>
     <summary><strong> 4 - ESTRUTURAS E BIBLIOTECAS </strong></summary>
