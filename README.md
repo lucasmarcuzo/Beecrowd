@@ -594,22 +594,22 @@
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1930_Tomadas">Ver em Java</a></td>
             </tr>
             <tr>
-             <td>1957 - Converter para Hexadecimal/td>
+             <td>1957 - Converter para Hexadecimal</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1959%20-%20Pol%C3%ADgonos%20Regulares%20Simples.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1959_Pol%C3%ADgonos%20Regulares%20Simples">Ver em Java</a></td>
             </tr>
             <tr> 
-             <td>1958 - Notação Científica/td>
+             <td>1958 - Notação Científica</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1958%20-%20Nota%C3%A7%C3%A3o%20Cient%C3%ADfica.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1958_Nota%C3%A7%C3%A3o%20Cient%C3%ADfica">Ver em Java</a></td>
             </tr>
             <tr>  
-              <td>1959 - Polígonos Regulares Simples/td>
+              <td>1959 - Polígonos Regulares Simples</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1959%20-%20Pol%C3%ADgonos%20Regulares%20Simples.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1959_Pol%C3%ADgonos%20Regulares%20Simples">Ver em Java</a></td>
             </tr>
             <tr>
-              <td>1963 - O Filme/td>
+              <td>1963 - O Filme</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1963%20-%20O%20Filme.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1963_O%20Filme">Ver em Java</a></td>
             </tr>
