@@ -595,8 +595,8 @@
             </tr>
             <tr>
              <td>1957 - Converter para Hexadecimal</td>
-                <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1959%20-%20Pol%C3%ADgonos%20Regulares%20Simples.cs">Ver em C#</a></td>
-                <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1959_Pol%C3%ADgonos%20Regulares%20Simples">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1957%20-%20Converter%20para%20Hexadecimal.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1957_Converter%20para%20Hexadecimal">Ver em Java</a></td>
             </tr>
             <tr> 
              <td>1958 - Notação Científica</td>
