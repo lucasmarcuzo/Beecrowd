@@ -822,12 +822,12 @@
             <tr>  
               <td>1769 - CPF 1</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1769%20-%20CPF%201.cs">Ver em C#</a></td>
-                <td><a href=""></a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1769_CPF%201">Ver em Java</a></td>
             </tr>
             <tr>
              <td>1786 - CPF 2</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1786%20-%20CPF%202.cs">Ver em C#</a></td>
-                <td><a href=""></a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1786_CPF%202">Ver em Java</a></td>
             </tr>
             <tr>  
              <td>1893 - Fases da Lua</td>
