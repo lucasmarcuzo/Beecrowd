@@ -1,4 +1,4 @@
-# Problemas realizados no Beecrowd em: [![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java) [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5??style=flat&logo=kotlin&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotli)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin)
+# Problemas realizados no Beecrowd em: [![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java) [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5??style=flat&logo=kotlin&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin) [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20SQL)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20SQL)
 
 <p align="center">
 <a href="https://www.beecrowd.com.br">
@@ -963,6 +963,38 @@
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1408_M%C3%A1rio">Ver em Java</a></td>
            </tr>
            <tr>     
+     </table>
+     </div>
+</details>  
+    
+<details>
+    <summary><strong> 9 - SQL </strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4">9 - SQL</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+           </tr>
+            <tr>
+                <th>Problema</th>
+                <th>SQL</th>
+            </tr>
+            <tr>
+              <td>2602 - Select Básico</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2602%20-%20Select%20B%C3%A1sico.txt">Ver em PostgreSQL</a></td>
+            </tr>
+            <tr>
+              <td>2603 - Endereço dos Clientes</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2603%20-%20Endere%C3%A7o%20dos%20Clientes.txt">Ver em       PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2604 - Menores que 10 ou Maiores que 100</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2604%20-%20Menores%20que%2010%20ou%20Maiores%20que%20100.txt">Ver em PostgreSQL</a></td>
+           </tr>
+           <tr>   
      </table>
      </div>
 </details>  
