@@ -54,6 +54,7 @@
              <td>1005 - Média 1</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1005%20-%20M%C3%A9dia%201.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1005_Media1">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1005%20-%20M%C3%A9dia%201">Ver em Kotlin</a></td>
             </tr>
             <tr>
              <td>1006 - Média 2</td>
@@ -121,6 +122,7 @@
             <td>1018 - Cédulas</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1018%20-%20C%C3%A9dulas.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1018_C%C3%A9dulas">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1018%20-%20C%C3%A9dulas">Ver em Kotlin</a></td>
             </tr>
             <tr>
              <td>1019 - Conversão de Tempo</td>
@@ -176,6 +178,7 @@
              <td>1043 - Triângulo</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1043%20-%20Tri%C3%A2ngulo.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1043_Tri%C3%A2ngulo">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1043%20-%20Tri%C3%A2ngulo">Ver em Kotlin</a></td>
             </tr>
             <tr>
              <td>1044 - Múltiplos</td>
@@ -377,6 +380,7 @@
              <td>1132 - Múltiplos de 13</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1132%20-%20M%C3%BAltiplos%20de%2013.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1132_M%C3%BAltiplos%20de%2013">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1132%20-%20M%C3%BAltiplos%20de%2013">Ver em Kotlin</a></td>
             </tr>
             <tr>
              <td>1133 - Resto da Divisão</td>
@@ -427,6 +431,7 @@
             <td>1151 - Fibonacci Fácil</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1151%20-%20Fibonacci%20F%C3%A1cil.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1151_Fibonacci%20F%C3%A1cil">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1151%20-%20Fibonacci%20F%C3%A1cil">Ver em Kotlin</a></td>
             </tr>
             <tr>
              <td>1153 - Fatorial Simples</td>
@@ -482,6 +487,7 @@
              <td>1173 - Preenchimento de Vetor I</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1173%20-%20Preenchimento%20de%20Vetor%20I.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1173_Preenchimento%20de%20Vetor%20I">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1173%20-%20Preenchimento%20de%20Vetor%20I">Ver em Kotlin</a></td>
             </tr>
             <tr>
              <td>1174 - Seleçao em Vetor I</td>
@@ -562,6 +568,7 @@
               <td>1589 - Bob Conduite</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1589%20-%20Bob%20Conduite.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1589_Bob%20Conduite">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1589%20-%20Bob%20Conduite">Ver em Kotlin</a></td>
             </tr>
             <tr>
                <td>1759 - Ho Ho Ho</td>
@@ -809,6 +816,7 @@
              <td>1192 - O jogo Matemático de Paula</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1192%20-%20O%20jogo%20Matem%C3%A1tico%20de%20Paula.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1192_O%20jogo%20Matem%C3%A1tico%20de%20Paula">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1192%20-%20O%20jogo%20Matem%C3%A1tico%20de%20Paula">Ver em Kotlin</a></td>
             </tr>
             <tr>  
               <td>1769 - CPF 1</td>
