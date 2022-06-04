@@ -1,3 +1,5 @@
+//Developed by: @LucasMarcuzo
+
 import java.util.Scanner;
 
 public class Main2510 {

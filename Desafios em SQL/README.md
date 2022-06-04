@@ -1,6 +1,6 @@
-# Beecrowd em ![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+# Beecrowd em ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<h2> Desafios realizados no Beecrowd em Java. </h2><br/>
+<h2> Desafios realizados no Beecrowd em PostgreSQL.</h2> <br/>
 
 
 ## 📱 Contato: 
