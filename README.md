@@ -1,4 +1,4 @@
-# Problemas realizados no Beecrowd em: [![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java) [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5??style=flat&logo=kotlin&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotli)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin)
+# Problemas realizados no Beecrowd em: [![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java) [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5??style=flat&logo=kotlin&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin) [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20SQL)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20SQL)
 
 <p align="center">
 <a href="https://www.beecrowd.com.br">
@@ -54,6 +54,7 @@
              <td>1005 - Média 1</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1005%20-%20M%C3%A9dia%201.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1005_Media1">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1005%20-%20M%C3%A9dia%201">Ver em Kotlin</a></td>
             </tr>
             <tr>
              <td>1006 - Média 2</td>
@@ -121,6 +122,7 @@
             <td>1018 - Cédulas</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1018%20-%20C%C3%A9dulas.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1018_C%C3%A9dulas">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1018%20-%20C%C3%A9dulas">Ver em Kotlin</a></td>
             </tr>
             <tr>
              <td>1019 - Conversão de Tempo</td>
@@ -176,6 +178,7 @@
              <td>1043 - Triângulo</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1043%20-%20Tri%C3%A2ngulo.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1043_Tri%C3%A2ngulo">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1043%20-%20Tri%C3%A2ngulo">Ver em Kotlin</a></td>
             </tr>
             <tr>
              <td>1044 - Múltiplos</td>
@@ -377,6 +380,7 @@
              <td>1132 - Múltiplos de 13</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1132%20-%20M%C3%BAltiplos%20de%2013.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1132_M%C3%BAltiplos%20de%2013">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1132%20-%20M%C3%BAltiplos%20de%2013">Ver em Kotlin</a></td>
             </tr>
             <tr>
              <td>1133 - Resto da Divisão</td>
@@ -427,6 +431,7 @@
             <td>1151 - Fibonacci Fácil</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1151%20-%20Fibonacci%20F%C3%A1cil.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1151_Fibonacci%20F%C3%A1cil">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1151%20-%20Fibonacci%20F%C3%A1cil">Ver em Kotlin</a></td>
             </tr>
             <tr>
              <td>1153 - Fatorial Simples</td>
@@ -482,6 +487,7 @@
              <td>1173 - Preenchimento de Vetor I</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1173%20-%20Preenchimento%20de%20Vetor%20I.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1173_Preenchimento%20de%20Vetor%20I">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1173%20-%20Preenchimento%20de%20Vetor%20I">Ver em Kotlin</a></td>
             </tr>
             <tr>
              <td>1174 - Seleçao em Vetor I</td>
@@ -562,6 +568,7 @@
               <td>1589 - Bob Conduite</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1589%20-%20Bob%20Conduite.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1589_Bob%20Conduite">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1589%20-%20Bob%20Conduite">Ver em Kotlin</a></td>
             </tr>
             <tr>
                <td>1759 - Ho Ho Ho</td>
@@ -577,6 +584,11 @@
               <td>1837 - Prefácio</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1837%20-%20Pref%C3%A1cio.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1837_Pref%C3%A1cio">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>1858 - A Resposta de Theon</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1858%20-%20A%20Resposta%20de%20Theon.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1858_A%20Resposta%20de%20Theon">Ver em Java</a></td>
             </tr>
             <tr>
              <td>1865 - Mjölnir</td>
@@ -617,7 +629,12 @@
              <td>1985 - MacPRONALTS</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1985%20-%20MacPRONALTS.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1985_Mac%20PRONALTS">Ver em Java</a></td>
-            </tr>
+           </tr>
+            <tr>
+             <td>2003 - Domingo de Manhã</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2003%20-%20Domingo%20de%20Manh%C3%A3.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2003_Domingo%20de%20Manh%C3%A3">Ver em Java</a></td>
+             </tr>
             <tr>
             <td>2006 - Identificando o Chá</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2006%20-%20Identificando%20o%20Ch%C3%A1.cs">Ver em C#</a></td>
@@ -662,6 +679,11 @@
               <td>2510 - Batmain</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/2510%20-%20Batmain.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/2510_Batmain">Ver em Java</a></td>
+            </tr>
+            <tr>
+              <td>2544 - Kage Bunshin no Jutsu</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2544%20-%20Kage%20Bunshin%20no%20Jutsu.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2544_Kage%20Bunshin%20no%20Jutsu">Ver em Java</a></td>
             </tr>
             <tr>
              <td>2581 - I am Toorg!</td>
@@ -779,6 +801,7 @@
                 <th>Problema</th>
                 <th>C#</th>
                 <th>Java</th>
+                <th>Kotlin</th>
             </tr>
             <tr>
               <td>1087 - Dama</td>
@@ -789,6 +812,12 @@
              <td>1171 - Frequência de Números</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1171%20-%20Frequ%C3%AAncia%20de%20N%C3%BAmeros.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1171_Frequ%C3%AAncia%20de%20N%C3%BAmeros">Ver em Java</a></td>
+            </tr>
+            <tr>
+             <td>1192 - O jogo Matemático de Paula</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1192%20-%20O%20jogo%20Matem%C3%A1tico%20de%20Paula.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1192_O%20jogo%20Matem%C3%A1tico%20de%20Paula">Ver em Java</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1192%20-%20O%20jogo%20Matem%C3%A1tico%20de%20Paula">Ver em Kotlin</a></td>
             </tr>
             <tr>  
               <td>1769 - CPF 1</td>
@@ -814,6 +843,11 @@
              <td>2409 - Colchão</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2409%20-%20Colch%C3%A3o.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2409%20-%20Colch%C3%A3oo">Ver em Java</a></td>
+            </tr>
+            <tr> 
+             <td>2413 - Busca na Internet</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2413%20-%20Busca%20na%20Internet.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2413_Busca%20na%20Internet">Ver em Java</a></td>
             </tr>
             <tr> 
              <td>2444 - Volume da TV</td>
@@ -850,6 +884,11 @@
                 <th>Java</th>
             </tr>
             <tr>
+             <td>1238 - Combinador</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1238%20-%20Combinador.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1238_Combinador">Ver em Java</a></td>
+            </tr>
+            <tr>
               <td>2150 - Vogais Alienígenas</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2150%20-%20Vogais%20Alien%C3%ADgenas.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2150_Vogais%20Alien%C3%ADgenas">Ver em Java</a></td>
@@ -875,12 +914,18 @@
                 <th>Problema</th>
                 <th>C#</th>
                 <th>Java</th>
+           </tr>
+            <tr>
+              <td>1259 - Pares e Ímpares</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1259%20-%20Pares%20e%20%C3%8Dmpares.cs">Ver em C#</a></td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java">Ver em Java</a></td>
+           </tr>
             </tr>
             <tr>
               <td>2633 - Churras no Yuri</td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2633%20-%20Churras%20no%20Yuri.cs">Ver em C#</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2633_Churras%20no%20Yuri">Ver em Java</a></td>
-            </tr>
+           </tr>
             <tr>
               <td>3163 - Controlador de Vôo</td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/3163%20-%20Controlador%20de%20V%C3%B4o.cs">Ver em C#</a></td>
@@ -966,8 +1011,199 @@
      </table>
      </div>
 </details>  
+    
+<details>
+    <summary><strong> 9 - SQL </strong></summary>
+    <br />
+    <div align="left">
+        <table border=1>
+            <tr>
+                <th colspan="4">9 - SQL</th>
+            </tr>
+            <tr>
+                <th colspan="4"></th>
+           </tr>
+            <tr>
+                <th>Problema</th>
+                <th>SQL</th>
+            </tr>
+            <tr>
+              <td>2602 - Select Básico</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2602%20-%20Select%20B%C3%A1sico.txt">Ver em PostgreSQL</a></td>
+            </tr>
+            <tr>
+              <td>2603 - Endereço dos Clientes</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2603%20-%20Endere%C3%A7o%20dos%20Clientes.txt">Ver em       PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2604 - Menores que 10 ou Maiores que 100</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2604%20-%20Menores%20que%2010%20ou%20Maiores%20que%20100.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2605 - Representantes Executivos</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2605%20-%20Representantes%20Executivos.txt">Ver em PostgreSQL</a></td>
+         </tr>
+            <tr>
+              <td>2606 - Categorias</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2606%20-%20Categorias.txt">Ver em PostgreSQL</a></td>
+         </tr>
+            <tr>
+              <td>2607 - Cidades em Ordem Alfabética</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2607%20-%20Cidades%20em%20Ordem%20Alfab%C3%A9tica.txt">Ver em PostgreSQL</a></td>
+         </tr>
+            <tr>
+              <td>2608 - Maior e Menor Preço</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2608%20-%20Maior%20e%20Menor%20Pre%C3%A7o.txt">Ver em PostgreSQL</a></td>         
+         </tr>
+            <tr>
+              <td>2609 - Produtos por Categorias</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2609%20-%20Produtos%20por%20Categorias.txt">Ver em PostgreSQL</a></td>
+         </tr>
+            <tr>
+              <td>2610 - Valor Médio dos Produtos</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2610%20-%20Valor%20M%C3%A9dio%20dos%20Produtos.txt">Ver em PostgreSQL</a></td>
+         </tr>
+            <tr>
+              <td>2611 - Filmes de Ação</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2611%20-%20Filmes%20de%20A%C3%A7%C3%A3o.txt">Ver em PostgreSQL</a></td>
+         </tr>
+            <tr>
+              <td>2613 - Filmes em Promoção</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2613%20-%20Filmes%20em%20Promo%C3%A7%C3%A3o.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2614 - Locações de Setembro</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2614%20-%20Loca%C3%A7%C3%B5es%20de%20Setembro.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2615 - Expandindo o Negocio</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2615%20-%20Expandindo%20o%20Negocio.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2616 - Nenhuma Locação</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2616%20-%20Nenhuma%20Loca%C3%A7%C3%A3o.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2617 - Fornecedor Ajax SA</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2617%20-%20Fornecedor%20Ajax%20SA.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2618 - Produtos ImportadosA</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2618%20-%20Produtos%20Importados.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2619 - Super Luxo</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2619%20-%20Super%20Luxo.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2620 - Pedidos no Primeiro Semestre</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2620%20-%20Pedidos%20no%20Primeiro%20Semestre.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2621 - Quantidade Entre 10 e 20</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2621%20-%20Quantidade%20Entre%2010%20e%2020.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2622 - Pessoas Jurídicas.txt</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2622%20-%20Pessoas%20Jur%C3%ADdicas.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2623 - Categorias com Vários Produtos</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2623%20-%20Categorias%20com%20V%C3%A1rios%20Produtos.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2624 - Quantidades de Cidades por Clientes</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2624%20-%20Quantidades%20de%20Cidades%20por%20Clientes.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2625 - Máscara de CPF</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2625%20-%20M%C3%A1scara%20de%20CPF.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2737 - Advogados</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2737%20-%20Advogados.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2738 - Concurso</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2738%20-%20Concurso.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2739 - Dia de Pagamento</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2739%20-%20Dia%20de%20Pagamento.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2740 - Liga</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2740%20-%20Liga.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2741 - Notas dos Alunos</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2741%20-%20Notas%20dos%20Alunos.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2742 - O Multiverso de Richard</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2742%20-%20O%20Multiverso%20de%20Richard.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2743 - Quantidade de Caracteres</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2743%20-%20Quantidade%20de%20Caracteres.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2744 - Senhas</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2744%20-%20Senhas.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2745 - Taxas</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2745%20-%20Taxas.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2746 - Virus</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2746%20-%20Virus.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2988 - Campeonato Cearense</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2988%20-%20Campeonato%20Cearense.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2990 - CPF Dos Empregados</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2990%20-%20CPF%20Dos%20Empregados.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2993 - Mais Frequente</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2993%20-%20Mais%20Frequente.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2994 - Quanto Ganha um Médico</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2994%20-%20Quanto%20Ganha%20um%20M%C3%A9dico.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2995 - A Mensagem do Sensor</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2995%20-%20A%20Mensagem%20do%20Sensor.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2996 - Entrega de Pacotes</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2996%20-%20Entrega%20de%20Pacotes.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2997 - Pagamento dos Empregados</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2997%20-%20Pagamento%20dos%20Empregados.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2998 - The Payback</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2998%20-%20The%20Payback.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>2999 - Maior Sálario da Divisão</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2999%20-%20Maior%20S%C3%A1lario%20da%20Divis%C3%A3o.txt">Ver em PostgreSQL</a></td>
+          </tr>
+            <tr>
+              <td>3001 - Update sem Where</td>
+                <td><a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/3001%20-%20Update%20sem%20Where.txt">Ver em PostgreSQL</a></td>
+           </tr>
+           <tr>   
+     </table>
+     </div>
+</details>  
 
-**Obs:** Nos desafios realizados em Java, é utilizado Java 14.
 
 ## 📱 Contato:
 
@@ -978,5 +1214,5 @@
 [![C# Badge](https://img.shields.io/github/license/lucasmarcuzo/Beecrowd?&link=https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)   
 
 
-<div align="right"> <h3> - Thanks for visiting! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> </h3> </div> 
+<div align="right"> <h3> - Thanks for visiting! ✌🏻 </h3> </div> 
 <p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/URI"> </h3> </p>
