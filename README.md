@@ -801,6 +801,7 @@
                 <th>Problema</th>
                 <th>C#</th>
                 <th>Java</th>
+                <th>Kotlin</th>
             </tr>
             <tr>
               <td>1087 - Dama</td>
