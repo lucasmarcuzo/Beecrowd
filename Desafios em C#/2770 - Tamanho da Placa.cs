@@ -7,13 +7,12 @@ class URI
     static void Main(string[] args)
     {
 
-        //string[] entrada = Console.ReadLine().Split(' ');
+        string input = "";
 
-        string entrada = "";
-
-        while ((entrada = Console.ReadLine()) != null)
+        while ((input = Console.ReadLine()) != null && input != "")
         {
-			int X = entrada.Substring(); //<<<<<<<<<<<<<<<
+			String[] entrada = input.Split(' '); 
+			int X = int.Parse(entrada[0]); 
 			int Y = int.Parse(entrada[1]);
 			int M = int.Parse(entrada[2]);
 
@@ -29,8 +28,6 @@ class URI
 				else
 					Console.WriteLine("Nao");
 			}
-
-            entrada = Console.ReadLine().Split(' ');
 		}     
     }
 }
