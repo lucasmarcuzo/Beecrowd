@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://www.beecrowd.com.br">
-<img  width="200"  height="150"  src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036">
+<img  width="230"  height="150"  src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036">
 </p>
 
 ## <img width="25" height="25" src="https://resources.beecrowd.com.br/judge/favicon.ico?1635097036"> Desafios Solucionados: (Challenges Solved:) <br>
@@ -27,8 +27,7 @@
             </tr>
             <tr>
                 <td>1000 - Hello World!</td>
-                 <td align="center">  <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1000%20-%20Hello%20World!.cs"> <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png" > 
-                </td>
+                 <td align="center">  <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1000%20-%20Hello%20World!.cs"> <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"> </td>
                 <td><a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1000_Hello%20World!">Ver em Java</a></td>
                 <td><a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1000%20-%20Hello%20World!">Ver em Kotlin</a></td>
             </tr>
