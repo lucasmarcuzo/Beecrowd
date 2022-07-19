@@ -2417,7 +2417,7 @@
 </details>  
 
 
-## 📱 Contato:
+## 📱 Contato: (Contact:)
 
 <div align="left">
     <a href="https://github.com/lucasmarcuzo" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub-lucasmarcuzo" height="30" width="40" />
