@@ -1,4 +1,4 @@
-## Desafios realizados no Beecrowd em: (Challenges held on Beecrowd in:) <br> [![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java) [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5??style=flat&logo=kotlin&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin) [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20SQL)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20SQL)
+## Desafios realizados no Beecrowd em: (Challenges held on Beecrowd in:) <br> [![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java) [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5??style=flat&logo=kotlin&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin) [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20SQL)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20SQL) [![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20JavaScript)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20JavaScript)
 
 
 <p align="center">
@@ -14,56 +14,75 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4">1 - INICIANTE | BEGINNER</th>
+                <th colspan="5">1 - INICIANTE | BEGINNER</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="5"></th>
             </tr>
             <tr>
                 <th>PROBLEMA | PROBLEM</th>
                 <th>C#</th>
                 <th>Java</th>
                 <th>Kotlin</th>
+                <th>JavaScript</th>
             </tr>
             <tr>
                 <td align="left">1000 - Hello World!</td>
                  <td align="center">  
-                  <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1000%20-%20Hello%20World!.cs">
-                  <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                  </a>
+                    <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1000%20-%20Hello%20World!.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
                  </td>
                  <td align="center">
-                  <a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1000_Hello%20World!">
-                  <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                  </a>
+                    <a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1000_Hello%20World!">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
                  </td>
                  <td align="center">
-                  <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1000%20-%20Hello%20World!">
-                  <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                  </a>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1000%20-%20Hello%20World!">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                 </td>   
+                 <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1001%20-%20Extremamente%20B%C3%A1sico.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
                  </td>
             </tr>
             <tr>
              <td align="left">1001 - Extremamente Básico | Extremely Basic</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1001%20-%20Extremamente%20B%C3%A1sico.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1001%20-%20Extremamente%20B%C3%A1sico.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1001_Extremamente%20Basico">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1001_Extremamente%20Basico">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1001%20-%20Extremamente%20B%C3%A1sico.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
             </tr>
             <tr>
               <td align="left">1002 - Área do Circulo | Area of a Circle</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1002%20-%20%C3%81rea%20do%20Circulo.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1002%20-%20%C3%81rea%20do%20Circulo.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1002_Area%20do%20Circulo">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1002_Area%20do%20Circulo">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1002%20-%20%C3%81rea%20do%20C%C3%ADrculo.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
             </tr>
             <tr>
              <td align="left">1003 - Soma Simples | Simple Sum</td>
@@ -1723,16 +1742,17 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4">2 - AD-HOC</th>
+                <th colspan="5">2 - AD-HOC</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="5"></th>
             </tr>
             <tr>
                 <th>Problema | Problem</th>
                 <th>C#</th>
                 <th>Java</th>
                 <th>Kotlin</th>
+                <th>JavaScript</th>
             </tr>
             <tr>
               <td align="left">1087 - Dama | Queen</td>
@@ -1890,15 +1910,16 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4"> 3 - STRINGS</th>
+                <th colspan="5"> 3 - STRINGS</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="5"></th>
             </tr>
             <tr>
                 <th>Problema | Problem</th>
                 <th>C#</th>
                 <th>Java</th>
+                <th>JavaScript</th>
             </tr>
             <tr>
              <td align="left">1238 - Combinador | Combiner</td>
@@ -1934,15 +1955,16 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4">4 - ESTRUTURAS E BIBLIOTECAS | DATA STRUCTURES AND LIBRARIES</th>
+                <th colspan="5">4 - ESTRUTURAS E BIBLIOTECAS | DATA STRUCTURES AND LIBRARIES</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="5"></th>
             </tr>
             <tr>
                 <th>Problema | Problem</th>
                 <th>C#</th>
                 <th>Java</th>
+                <th>JavaScript</th>
            </tr>
             <tr>
               <td align="left">1259 - Pares e Ímpares | Even and Odd</td>
@@ -1991,15 +2013,16 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4">5 - MATEMÁTICA | MATHEMATICS</th>
+                <th colspan="5">5 - MATEMÁTICA | MATHEMATICS</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="5"></th>
            </tr>
             <tr>
                 <th>Problema</th>
                 <th>C#</th>
                 <th>Java</th>
+                <th>JavaScript</th>
             </tr>
             <tr>
              <td align="left">1169 - Trigo no Tabuleiro | Grains in a Chess Board</td>
@@ -2069,15 +2092,16 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4">6 - PARADIGMAS | PARADIGMS</th>
+                <th colspan="5">6 - PARADIGMAS | PARADIGMS</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="5"></th>
            </tr>
             <tr>
                 <th>Problema | Problem</th>
                 <th>C#</th>
                 <th>Java</th>
+                <th>JavaScript</th>
             </tr>
             <tr>
               <td align="left">1408 - Mário | Mario</td>
@@ -2101,10 +2125,10 @@
     <div align="left">
         <table border=1>
             <tr>
-                <th colspan="4">9 - SQL</th>
+                <th colspan="5">9 - SQL</th>
             </tr>
             <tr>
-                <th colspan="4"></th>
+                <th colspan="5"></th>
            </tr>
             <tr>
                 <th>Problema</th>
