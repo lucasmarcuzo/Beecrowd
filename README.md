@@ -3564,102 +3564,210 @@
             <tr>
              <td align="left">1786 - CPF 2 | SSN 2</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1786%20-%20CPF%202.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1786%20-%20CPF%202.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1786_CPF%202">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1786_CPF%202">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
             </tr>
             <tr>  
              <td align="left">1893 - Fases da Lua | Moon Phases</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1893%20-%20Fases%20da%20Lua.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1893%20-%20Fases%20da%20Lua.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1893_Fases%20da%20Lua">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1893_Fases%20da%20Lua">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
             </tr>
             <tr>             
              <td align="left">1943 - Top N | Top N</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1943%20-%20Top%20N.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1943%20-%20Top%20N.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1943_Top%20N">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1943_Top%20N">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                 <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
             </tr>
             <tr>
              <td align="left">2374 - Pneu | Tire</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2374%20-%20Pneu.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2374%20-%20Pneu.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a></td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2374_Pneu">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2374_Pneu">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
             </tr>
             <tr>
              <td align="left">2409 - Colchão | Mattress</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2409%20-%20Colch%C3%A3o.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2409%20-%20Colch%C3%A3o.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2409%20-%20Colch%C3%A3oo">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2409%20-%20Colch%C3%A3oo">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
             </tr>
             <tr> 
              <td align="left">2413 - Busca na Internet | Internet search</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2413%20-%20Busca%20na%20Internet.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2413%20-%20Busca%20na%20Internet.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2413_Busca%20na%20Internet">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2413_Busca%20na%20Internet">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
             </tr>
             <tr> 
              <td align="left">2444 - Volume da TV | TV volume</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2444%20-%20Volume%20da%20TV.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2444%20-%20Volume%20da%20TV.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2444_Volume%20da%20TV">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2444_Volume%20da%20TV">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
             </tr>
             <tr>    
-             <td align="left">2679 - Sucessor Par | Even Successor</td>
+              <td align="left">2679 - Sucessor Par | Even Successor</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2679%20-%20Sucessor%20Par.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2679%20-%20Sucessor%20Par.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2679_Sucessor%20Par">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-            </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2679_Sucessor%20Par">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+              </td>
+           </tr>
             <tr>
              <td align="left">2927 - Imprevistos Natalinos | Unforeseen at Christmas</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2927%20-%20Imprevistos%20Natalinos.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2927%20-%20Imprevistos%20Natalinos.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2927_Imprevistos%20Natalinos">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-     </table>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2927_Imprevistos%20Natalinos">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+             </tr>
+        </table>
      </div>
 </details>
     
@@ -3683,26 +3791,50 @@
             <tr>
              <td align="left">1238 - Combinador | Combiner</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1238%20-%20Combinador.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1238%20-%20Combinador.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1238_Combinador">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1238_Combinador">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
             </tr>
             <tr>
               <td align="left">2150 - Vogais Alienígenas | Alien Vowels</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2150%20-%20Vogais%20Alien%C3%ADgenas.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2150%20-%20Vogais%20Alien%C3%ADgenas.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2150_Vogais%20Alien%C3%ADgenas">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2150_Vogais%20Alien%C3%ADgenas">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
             </tr>
-            <tr>    
+         <tr>    
      </table>
      </div>
 </details>    
@@ -3728,36 +3860,71 @@
             <tr>
               <td align="left">1259 - Pares e Ímpares | Even and Odd</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1259%20-%20Pares%20e%20%C3%8Dmpares.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1259%20-%20Pares%20e%20%C3%8Dmpares.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a></td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+              </td>
            </tr>
             </tr>
             <tr>
               <td align="left">2633 - Churras no Yuri | Barbecue at Yuri’s</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2633%20-%20Churras%20no%20Yuri.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2633%20-%20Churras%20no%20Yuri.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2633_Churras%20no%20Yuri">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2633_Churras%20no%20Yuri">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+              </td>
            </tr>
             <tr>
               <td align="left">3163 - Controlador de Vôo | Flying Control</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/3163%20-%20Controlador%20de%20V%C3%B4o.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/3163%20-%20Controlador%20de%20V%C3%B4o.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/3163_Controlador%20de%20V%C3%B4o">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/3163_Controlador%20de%20V%C3%B4o">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
             </tr>
             <tr>    
      </table>
@@ -3786,59 +3953,119 @@
             <tr>
              <td align="left">1169 - Trigo no Tabuleiro | Grains in a Chess Board</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1169%20-%20Trigo%20no%20Tabuleiro.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1169%20-%20Trigo%20no%20Tabuleiro.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1169_Trigo%20no%20Tabuleiro">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1169_Trigo%20no%20Tabuleiro">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+              </td>
             </tr>
             <tr>
               <td align="left">1240 - Encaixa ou Não I | Fit or Dont Fit I</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1240%20-%20Encaixa%20ou%20N%C3%A3o%20I.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1240%20-%20Encaixa%20ou%20N%C3%A3o%20I.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1240_Encaixa%20ou%20N%C3%A3o%20I">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1240_Encaixa%20ou%20N%C3%A3o%20I">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
             </tr>
             <tr>
              <td align="left">1921 - Guilherme e Suas Pipas | Guilherme and His Kites</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1921%20-%20Guilherme%20e%20Suas%20Pipas.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1921%20-%20Guilherme%20e%20Suas%20Pipas.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1921_Guilherme%20e%20Suas%20Pipas">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/URI/tree/main/Desafios%20em%20Java/1921_Guilherme%20e%20Suas%20Pipas">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
             </tr>
             <tr>
              <td align="left">2596 - Xenlonguinho | Xenlonguinho</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2596%20-%20Xenlonguinho.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2596%20-%20Xenlonguinho.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2596_Xenlonguinho">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2596_Xenlonguinho">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
             </tr>
             <tr>    
              <td align="left">2597 - Xenlongão | Xenlongão</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2597%20-%20Xenlong%C3%A3o.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2597%20-%20Xenlong%C3%A3o.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2597_Xenlong%C3%A3o">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2597_Xenlong%C3%A3o">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
             </tr>
-            <tr>     
+           <tr>     
      </table>
      </div>
 </details>
@@ -3865,15 +4092,27 @@
             <tr>
               <td align="left">1408 - Mário | Mario</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1408%20-%20M%C3%A1rio.cs">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1408%20-%20M%C3%A1rio.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1408_M%C3%A1rio">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1408_M%C3%A1rio">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
            </tr>
-           <tr>     
+          <tr>     
      </table>
      </div>
 </details>  
@@ -3896,304 +4135,347 @@
             <tr>
               <td align="left">2602 - Select Básico | Basic Select</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2602%20-%20Select%20B%C3%A1sico.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2602%20-%20Select%20B%C3%A1sico.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
             </tr>
             <tr>
               <td align="left">2603 - Endereço dos Clientes | Customer Address</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2603%20-%20Endere%C3%A7o%20dos%20Clientes.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2603%20-%20Endere%C3%A7o%20dos%20Clientes.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2604 - Menores que 10 ou Maiores que 100 | Under 10 or Greater Than 100</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2604%20-%20Menores%20que%2010%20ou%20Maiores%20que%20100.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2604%20-%20Menores%20que%2010%20ou%20Maiores%20que%20100.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2605 - Representantes Executivos | Executive Representatives</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2605%20-%20Representantes%20Executivos.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-         </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2605%20-%20Representantes%20Executivos.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2606 - Categorias | Categories</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2606%20-%20Categorias.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-         </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2606%20-%20Categorias.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2607 - Cidades em Ordem Alfabética | Providers' City in Alphabetical Order</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2607%20-%20Cidades%20em%20Ordem%20Alfab%C3%A9tica.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-         </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2607%20-%20Cidades%20em%20Ordem%20Alfab%C3%A9tica.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2608 - Maior e Menor Preço | Higher and Lower Price</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2608%20-%20Maior%20e%20Menor%20Pre%C3%A7o.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>         
-         </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2608%20-%20Maior%20e%20Menor%20Pre%C3%A7o.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>         
+            </tr>
             <tr>
               <td align="left">2609 - Produtos por Categorias | Products by Categories</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2609%20-%20Produtos%20por%20Categorias.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-         </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2609%20-%20Produtos%20por%20Categorias.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2610 - Valor Médio dos Produtos | Average Value of Products</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2610%20-%20Valor%20M%C3%A9dio%20dos%20Produtos.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-         </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2610%20-%20Valor%20M%C3%A9dio%20dos%20Produtos.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2611 - Filmes de Ação | Action Movies</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2611%20-%20Filmes%20de%20A%C3%A7%C3%A3o.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-         </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2611%20-%20Filmes%20de%20A%C3%A7%C3%A3o.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2613 - Filmes em Promoção | Cheap Movies</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2613%20-%20Filmes%20em%20Promo%C3%A7%C3%A3o.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2613%20-%20Filmes%20em%20Promo%C3%A7%C3%A3o.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2614 - Locações de Setembro | September Rentals</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2614%20-%20Loca%C3%A7%C3%B5es%20de%20Setembro.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2614%20-%20Loca%C3%A7%C3%B5es%20de%20Setembro.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2615 - Expandindo o Negocio | Expanding the Business</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2615%20-%20Expandindo%20o%20Negocio.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2615%20-%20Expandindo%20o%20Negocio.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2616 - Nenhuma Locação | No Rental</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2616%20-%20Nenhuma%20Loca%C3%A7%C3%A3o.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2616%20-%20Nenhuma%20Loca%C3%A7%C3%A3o.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2617 - Fornecedor Ajax SA | Provider Ajax SA</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2617%20-%20Fornecedor%20Ajax%20SA.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2617%20-%20Fornecedor%20Ajax%20SA.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2618 - Produtos ImportadosA | Imported Products</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2618%20-%20Produtos%20Importados.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2618%20-%20Produtos%20Importados.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2619 - Super Luxo | Super Luxury</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2619%20-%20Super%20Luxo.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2619%20-%20Super%20Luxo.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2620 - Pedidos no Primeiro Semestre | Orders in First Half</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2620%20-%20Pedidos%20no%20Primeiro%20Semestre.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2620%20-%20Pedidos%20no%20Primeiro%20Semestre.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2621 - Quantidade Entre 10 e 20 | Amounts Between 10 and 20</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2621%20-%20Quantidade%20Entre%2010%20e%2020.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2621%20-%20Quantidade%20Entre%2010%20e%2020.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2622 - Pessoas Jurídicas | Legal Person</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2622%20-%20Pessoas%20Jur%C3%ADdicas.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2622%20-%20Pessoas%20Jur%C3%ADdicas.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2623 - Categorias com Vários Produtos | Categories with Various Products</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2623%20-%20Categorias%20com%20V%C3%A1rios%20Produtos.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2623%20-%20Categorias%20com%20V%C3%A1rios%20Produtos.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2624 - Quantidades de Cidades por Clientes | Number of Cities per Customers</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2624%20-%20Quantidades%20de%20Cidades%20por%20Clientes.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2624%20-%20Quantidades%20de%20Cidades%20por%20Clientes.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2625 - Máscara de CPF | CPF Validation</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2625%20-%20M%C3%A1scara%20de%20CPF.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2625%20-%20M%C3%A1scara%20de%20CPF.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2737 - Advogados | Lawyers</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2737%20-%20Advogados.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2737%20-%20Advogados.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2738 - Concurso | Contest</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2738%20-%20Concurso.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2738%20-%20Concurso.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2739 - Dia de Pagamento | Payday</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2739%20-%20Dia%20de%20Pagamento.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2739%20-%20Dia%20de%20Pagamento.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2740 - Liga | League</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2740%20-%20Liga.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2740%20-%20Liga.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2741 - Notas dos Alunos | Students Grades</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2741%20-%20Notas%20dos%20Alunos.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2741%20-%20Notas%20dos%20Alunos.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2742 - O Multiverso de Richard | Richard's Multiverse</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2742%20-%20O%20Multiverso%20de%20Richard.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2742%20-%20O%20Multiverso%20de%20Richard.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2743 - Quantidade de Caracteres | Number of Characters</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2743%20-%20Quantidade%20de%20Caracteres.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2743%20-%20Quantidade%20de%20Caracteres.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2744 - Senhas | Passwords</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2744%20-%20Senhas.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2744%20-%20Senhas.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2745 - Taxas | Taxes</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2745%20-%20Taxas.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2745%20-%20Taxas.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2746 - Virus | Viruses</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2746%20-%20Virus.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2746%20-%20Virus.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2988 - Campeonato Cearense | 	Cearense Championship</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2988%20-%20Campeonato%20Cearense.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2988%20-%20Campeonato%20Cearense.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2990 - CPF Dos Empregados | Employees CPF</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2990%20-%20CPF%20Dos%20Empregados.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2990%20-%20CPF%20Dos%20Empregados.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2993 - Mais Frequente | Most Frequent</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2993%20-%20Mais%20Frequente.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2993%20-%20Mais%20Frequente.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2994 - Quanto Ganha um Médico | How much earn a Doctor?</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2994%20-%20Quanto%20Ganha%20um%20M%C3%A9dico.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2994%20-%20Quanto%20Ganha%20um%20M%C3%A9dico.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2995 - A Mensagem do Sensor | The Sensor Message</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2995%20-%20A%20Mensagem%20do%20Sensor.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2995%20-%20A%20Mensagem%20do%20Sensor.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2996 - Entrega de Pacotes | Package Delivery</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2996%20-%20Entrega%20de%20Pacotes.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2996%20-%20Entrega%20de%20Pacotes.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2997 - Pagamento dos Empregados | Employees Payment</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2997%20-%20Pagamento%20dos%20Empregados.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2997%20-%20Pagamento%20dos%20Empregados.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2998 - The Payback | 	The Payback</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2998%20-%20The%20Payback.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2998%20-%20The%20Payback.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">2999 - Maior Sálario da Divisão | Highest Division Salary</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2999%20-%20Maior%20S%C3%A1lario%20da%20Divis%C3%A3o.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-          </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2999%20-%20Maior%20S%C3%A1lario%20da%20Divis%C3%A3o.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
               <td align="left">3001 - Update sem Where | Update sem Where</td>
                 <td align="center">
-                <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/3001%20-%20Update%20sem%20Where.sql">
-                <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
-                </a></td>
-           </tr>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/3001%20-%20Update%20sem%20Where.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
            <tr>   
      </table>
      </div>
