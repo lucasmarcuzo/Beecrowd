@@ -503,8 +503,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1020%20-%20Idade%20em%20Dias.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -526,8 +526,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1021%20-%20Notas%20e%20Moedas.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -549,8 +549,8 @@
                     </a>
                  </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1035%20-%20Teste%20de%20Sele%C3%A7%C3%A3o%201.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -572,8 +572,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1036%20-%20F%C3%B3rmula%20de%20Bhaskara.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -595,8 +595,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1037%20-%20Intervalo.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -617,8 +617,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1038%20-%20Lanche.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -663,8 +663,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1041%20-%20Coordenadas%20de%20um%20Ponto.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -686,8 +686,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1042%20-%20Sort%20Simples.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -709,8 +709,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1043%20-%20Tri%C3%A2ngulo.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -732,8 +732,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1044%20-%20M%C3%BAltiplos.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -755,8 +755,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1045%20-%20Tipos%20de%20Tri%C3%A2ngulos.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -778,8 +778,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1046%20-%20Tempo%20de%20Jogo.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -801,8 +801,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1047%20-%20Tempo%20de%20Jogo%20com%20Minutos.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -824,8 +824,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1048%20-%20Aumento%20de%20Sal%C3%A1rio.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -847,8 +847,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1049%20-%20Animal.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -870,8 +870,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1050%20-%20DDD.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -893,8 +893,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1051%20-%20Imposto%20de%20Renda.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -916,8 +916,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1052%20-%20M%C3%AAs.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -939,8 +939,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1059%20-%20N%C3%BAmeros%20Pares.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -962,8 +962,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1060%20-%20N%C3%BAmeros%20Positivos.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -985,8 +985,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1061%20-%20Tempo%20de%20um%20Evento.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1008,8 +1008,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1064%20-%20Positivos%20e%20M%C3%A9dia.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1031,8 +1031,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1065%20-%20Pares%20entre%20Cinco%20N%C3%BAmeros.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1054,8 +1054,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1066%20-%20Pares%2C%20%C3%8Dmpares%2C%20Positivos%20e%20Negativos.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1077,8 +1077,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1067%20-%20N%C3%BAmeros%20%C3%8Dmpares.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1100,8 +1100,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1070%20-%20Seis%20N%C3%BAmeros%20%C3%8Dmpares.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1123,8 +1123,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1071%20-%20Soma%20de%20Impares%20Consecutivos%20I.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1146,8 +1146,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1072%20-%20Intervalo%202.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1169,8 +1169,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1073%20-%20Quadrado%20de%20Pares.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1192,8 +1192,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1074%20-%20Par%20ou%20%C3%8Dmpar.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1215,8 +1215,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1075%20-%20Resto%202.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1238,8 +1238,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1078%20-%20Tabuada.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1261,8 +1261,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1079%20-%20M%C3%A9dias%20Ponderadas.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1284,8 +1284,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1080%20-%20Maior%20e%20Posi%C3%A7%C3%A3o.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1307,8 +1307,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1094%20-%20Experi%C3%AAncias.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1330,8 +1330,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1095%20-%20Sequencia%20IJ%201.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1353,8 +1353,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1096%20-%20Sequencia%20IJ%202.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1376,8 +1376,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1097%20-%20Sequencia%20IJ%203.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1399,8 +1399,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1098%20-%20Sequencia%20IJ%204.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1422,8 +1422,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1099%20-%20Soma%20de%20%C3%8Dmpares%20Consecutivos%20II.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1445,8 +1445,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1101%20-%20Sequ%C3%AAncia%20de%20N%C3%BAmeros%20e%20Soma.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1468,8 +1468,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1113%20-%20Crescente%20e%20Decrescente.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                  </td>
             </tr>
@@ -1491,8 +1491,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1114%20-%20Senha%20Fixa.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1514,8 +1514,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1115%20-%20Quadrante.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1537,8 +1537,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1116%20-%20Dividindo%20X%20por%20Y.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1560,8 +1560,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1117%20-%20Valida%C3%A7%C3%A3o%20de%20Nota.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1583,8 +1583,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1118%20-%20V%C3%A1rias%20Notas%20Com%20Valida%C3%A7%C3%A3o.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1606,8 +1606,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1131%20-%20Grenais.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1629,8 +1629,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1132%20-%20M%C3%BAltiplos%20de%2013.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1652,8 +1652,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1133%20-%20Resto%20da%20Divis%C3%A3o.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1675,8 +1675,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1134%20-%20Tipo%20de%20Combust%C3%ADvel.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1698,8 +1698,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1142%20-%20PUM.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1721,8 +1721,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1143%20-%20Quadrado%20e%20ao%20Cubo.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1744,8 +1744,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1144%20-%20Sequ%C3%AAncia%20L%C3%B3gica.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1767,8 +1767,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1145%20-%20Sequ%C3%AAncia%20L%C3%B3gica%202.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1790,8 +1790,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1146%20-%20Sequ%C3%AAncias%20Crescentes.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1813,8 +1813,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1149%20-%20Somando%20Inteiros%20Consecutivos.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1836,8 +1836,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1150%20-%20Ultrapassando%20Z.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
              </tr>
@@ -1859,8 +1859,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1151%20-%20Fibonacci%20F%C3%A1cil.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1879,6 +1879,11 @@
                 <td align="center">
                     <a href="">
                         <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1153%20-%20Fatorial%20Simples.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1900,8 +1905,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1154%20-%20Idades.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1923,8 +1928,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1155%20-%20Sequ%C3%AAncia%20S.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1946,8 +1951,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1156%20-%20Sequ%C3%AAncia%20S%20II.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1969,8 +1974,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1157%20-%20Divisores%20I.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1992,8 +1997,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1158%20-%20Soma%20de%20%C3%8Dmpares%20Consecutivos%20III.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2015,8 +2020,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1159%20-%20Soma%20de%20Pares%20Consecutivos.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2038,8 +2043,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1164%20-%20N%C3%BAmero%20Perfeito.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2061,8 +2066,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1165%20-%20N%C3%BAmero%20Primo.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2084,8 +2089,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1172%20-%20Substitui%C3%A7%C3%A3o%20em%20Vetor%20I.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2107,8 +2112,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1173%20-%20Preenchimento%20de%20Vetor%20I.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2130,8 +2135,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1174%20-%20Sele%C3%A7ao%20em%20Vetor%20I.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2153,8 +2158,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1175%20-%20Troca%20em%20Vetor%20I.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2176,8 +2181,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1176%20-%20Fibonacci%20em%20Vetor.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2199,8 +2204,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1177%20-%20Preenchimento%20de%20Vetor%20II.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2228,6 +2233,29 @@
                 </td>
             </tr>
             <tr>
+             <td align="left">1179 - Preenchimento de Vetor IV | Array Fill IV</td>
+                <td align="center">
+                    <a href="">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1179%20-%20Preenchimento%20de%20Vetor%20IV.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>
              <td align="left">1180 - Menor e Posição | Lowest Number and Position</td>
                 <td align="center">
                     <a href="https://github.com/lucasmarcuzo/URI/blob/main/Desafios%20em%20C%23/1180%20-%20Menor%20e%20Posi%C3%A7%C3%A3o.cs">
@@ -2245,8 +2273,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1180%20-%20Menor%20e%20Posi%C3%A7%C3%A3o.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2268,8 +2296,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1183%20-%20Acima%20da%20Diagonal%20Principal.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2291,8 +2319,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1184%20-%20Abaixo%20da%20Diagonal%20Principal.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2314,8 +2342,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1185%20-%20Acima%20da%20Diagonal%20Secund%C3%A1ria.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2337,8 +2365,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1186%20-%20Abaixo%20da%20Diagonal%20Secund%C3%A1ria.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2360,8 +2388,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1187%20-%20%C3%81rea%20Superior.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2383,8 +2411,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1188%20-%20%C3%81rea%20Inferior.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2406,8 +2434,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1189%20-%20%C3%81rea%20Esquerda.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2429,8 +2457,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1190%20-%20%C3%81rea%20Direita.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2452,8 +2480,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1564%20-%20Vai%20Ter%20Copa.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2475,8 +2503,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1589%20-%20Bob%20Conduite.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2498,8 +2526,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1759%20-%20Ho%20Ho%20Ho.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2521,8 +2549,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1828%20-%20Bazinga!.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2544,8 +2572,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1837%20-%20Pref%C3%A1cio.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2567,8 +2595,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1858%20-%20A%20Resposta%20de%20Theon.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2590,8 +2618,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1865%20-%20Mj%C3%B6lnir.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2613,8 +2641,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1924%20-%20Vit%C3%B3ria%20e%20a%20Indecis%C3%A3o.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2636,8 +2664,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1930%20-%20Tomadas.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2659,8 +2687,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1957%20-%20Converter%20para%20Hexadecimal.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2705,8 +2733,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1959%20-%20Pol%C3%ADgonos%20Regulares%20Simples.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2728,8 +2756,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1963%20-%20O%20Filme.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2751,8 +2779,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1985%20-%20MacPRONALTS.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
            </tr>
@@ -2797,8 +2825,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2006%20-%20Identificando%20o%20Ch%C3%A1.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2820,8 +2848,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2029%20-%20Reservat%C3%B3rio%20de%20Mel.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2843,8 +2871,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2057%20-%20Fuso%20Hor%C3%A1rio.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2865,8 +2893,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2146%20-%20Senha.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2888,8 +2916,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2164%20-%20Fibonacci%20R%C3%A1pido.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2911,8 +2939,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2165%20-%20Tuitando.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2934,8 +2962,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2235%20-%20Andando%20no%20Tempo.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2957,8 +2985,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2483%20-%20Feliz%20Nataaal!.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -2980,8 +3008,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2510%20-%20Batmain.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3003,8 +3031,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2544%20-%20Kage%20Bunshin%20no%20Jutsu.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3026,8 +3054,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2581%20-%20I%20am%20Toorg!.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3049,8 +3077,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2685%20-%20A%20Mudan%C3%A7a.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3072,8 +3100,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2686%20-%20A%20Mudan%C3%A7a%20Continua!!.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3095,8 +3123,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2717%20-%20Tempo%20do%20Duende.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3118,12 +3146,35 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2747%20-%20Sa%C3%ADda%201.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
             <tr>   
+              <td align="left">2748 - Saída 2 | Output 2</td>
+                <td align="center">
+                    <a href="">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2748%20-%20Sa%C3%ADda%202.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>  
               <td align="left">2754 - Saída 8 | Output 8</td>
                 <td align="center">
                     <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2754%20-%20Sa%C3%ADda%208.cs">
@@ -3187,8 +3238,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2763%20-%20Entrada%20e%20Sa%C3%ADda%20CPF.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3233,8 +3284,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2779%20-%20%C3%81lbum%20da%20Copa.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3256,8 +3307,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2780%20-%20Basquete%20de%20Rob%C3%B4s.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3279,8 +3330,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2787%20-%20Xadrez.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3302,8 +3353,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2862%20-%20Inseto!.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3325,8 +3376,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2936%20-%20Quanta%20Mandioca.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3348,8 +3399,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/3040%20-%20A%20%C3%81rvore%20de%20Natal.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3371,8 +3422,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/3299%20-%20N%C3%BAmeros%20M%C3%A1%20Sorte%20Pequenos.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3394,8 +3445,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/3301%20-%20Sobrinho%20do%20Meio.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3417,8 +3468,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/3302%20-%20Resposta%20Certa.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3440,8 +3491,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/3303%20-%20Palavr%C3%A3o.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3487,8 +3538,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src=""></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1087%20-%20Dama.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
@@ -3786,6 +3837,7 @@
                 <th>Problema | Problem</th>
                 <th>C#</th>
                 <th>Java</th>
+                <th>Kotlin</th>
                 <th>JavaScript</th>
             </tr>
             <tr>
@@ -3855,6 +3907,7 @@
                 <th>Problema | Problem</th>
                 <th>C#</th>
                 <th>Java</th>
+                <th>Kotlin</th>
                 <th>JavaScript</th>
            </tr>
             <tr>
@@ -3948,6 +4001,7 @@
                 <th>Problema</th>
                 <th>C#</th>
                 <th>Java</th>
+                <th>Kotlin</th>
                 <th>JavaScript</th>
             </tr>
             <tr>
@@ -4087,6 +4141,7 @@
                 <th>Problema | Problem</th>
                 <th>C#</th>
                 <th>Java</th>
+                <th>Kotlin</th>
                 <th>JavaScript</th>
             </tr>
             <tr>
