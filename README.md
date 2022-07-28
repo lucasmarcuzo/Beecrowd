@@ -62,7 +62,7 @@
                     </a>
                 <td align="center">
                     <a href="">
-                        <img src=""></img>
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
                     </a>
                  </td>
                 <td align="center">
@@ -85,7 +85,7 @@
                 </td>
                 <td align="center">
                     <a href="">
-                        <img src=""></img>
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
                     </a>
                  </td>
                 <td align="center">
@@ -108,7 +108,7 @@
                 </td>
                 <td align="center">
                     <a href="">
-                        <img src=""></img>
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
                     </a>
                  </td>
                 <td align="center">
@@ -131,7 +131,7 @@
                 </td>
                 <td align="center">
                     <a href="">
-                        <img src=""></img>
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
                     </a>
                  </td>
                 <td align="center">
@@ -223,7 +223,7 @@
                 </td>
                 <td align="center">
                     <a href="">
-                        <img src=""></img>
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -246,7 +246,7 @@
                 </td>
                 <td align="center">
                     <a href="">
-                        <img src=""></img>
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -269,7 +269,7 @@
                 </td>
                 <td align="center">
                     <a href="">
-                        <img src=""></img>
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -292,7 +292,7 @@
                 </td>
                 <td align="center">
                     <a href="">
-                        <img src=""></img>
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -315,7 +315,7 @@
                 </td>
                 <td align="center">
                     <a href="">
-                        <img src=""></img>
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -338,7 +338,7 @@
                 </td>
                 <td align="center">
                     <a href="">
-                        <img src=""></img>
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -361,7 +361,7 @@
                 </td>
                 <td align="center">
                     <a href="">
-                        <img src=""></img>
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -384,7 +384,7 @@
                 </td>
                 <td align="center">
                     <a href="">
-                        <img src=""></img>
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -407,7 +407,7 @@
                 </td>
                 <td align="center">
                     <a href="">
-                        <img src=""></img>
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -2235,12 +2235,12 @@
             <tr>
              <td align="left">1179 - Preenchimento de Vetor IV | Array Fill IV</td>
                 <td align="center">
-                    <a href="">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1179%20-%20Preenchimento%20de%20Vetor%20IV.cs">
                         <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1179_Preenchimento%20de%20Vetor%20IV">
                         <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
@@ -3154,12 +3154,12 @@
             <tr>   
               <td align="left">2748 - Saída 2 | Output 2</td>
                 <td align="center">
-                    <a href="">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2748%20-%20Sa%C3%ADda%202.cs">
                         <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2748_Sa%C3%ADda%202">
                         <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
@@ -3243,6 +3243,29 @@
                     </a>
                 </td>
             </tr>
+            <tr>
+             <td align="left">2766 - Entrada e Saída Lendo e Pulando Nomes | Input and Output Reading and Skipping Names</td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/2766%20-%20Entrada%20e%20Sa%C3%ADda%20Lendo%20e%20Pulando%20Nomes.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/2766_Entrada%20e%20Sa%C3%ADda%20Lendo%20e%20Pulando%20Nomes">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="">
+                        <img src=""></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/2766%20-%20Entrada%20e%20Sa%C3%ADda%20Lendo%20e%20Pulando%20Nomes.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+              </tr>
             <tr>
               <td align="left">2770 - Tamanho da Placa | Board Size</td>
                 <td align="center">
