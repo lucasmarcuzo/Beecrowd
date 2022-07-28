@@ -4207,7 +4207,7 @@
                 <th colspan="5"></th>
            </tr>
             <tr>
-                <th>Problema</th>
+                <th>Problema | Problem</th>
                 <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/Postgreesql-icon.png"></img></th>
             </tr>
             <tr>
