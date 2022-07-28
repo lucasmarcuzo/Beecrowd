@@ -24,7 +24,7 @@
                 <th>C#</th>
                 <th>Java</th>
                 <th>Kotlin</th>
-                <th>JavaScript</th>
+                <th>JS</th>
             </tr>
             <tr>
                 <td align="left">1000 - Hello World!</td>
@@ -3541,7 +3541,7 @@
                 <th>C#</th>
                 <th>Java</th>
                 <th>Kotlin</th>
-                <th>JavaScript</th>
+                <th>JS</th>
             </tr>
             <tr>
               <td align="left">1087 - Dama | Queen</td>
@@ -3861,7 +3861,7 @@
                 <th>C#</th>
                 <th>Java</th>
                 <th>Kotlin</th>
-                <th>JavaScript</th>
+                <th>JS</th>
             </tr>
             <tr>
              <td align="left">1238 - Combinador | Combiner</td>
@@ -3931,7 +3931,7 @@
                 <th>C#</th>
                 <th>Java</th>
                 <th>Kotlin</th>
-                <th>JavaScript</th>
+                <th>JS</th>
            </tr>
             <tr>
               <td align="left">1259 - Pares e Ímpares | Even and Odd</td>
@@ -4025,7 +4025,7 @@
                 <th>C#</th>
                 <th>Java</th>
                 <th>Kotlin</th>
-                <th>JavaScript</th>
+                <th>JS</th>
             </tr>
             <tr>
              <td align="left">1169 - Trigo no Tabuleiro | Grains in a Chess Board</td>
@@ -4165,7 +4165,7 @@
                 <th>C#</th>
                 <th>Java</th>
                 <th>Kotlin</th>
-                <th>JavaScript</th>
+                <th>JS</th>
             </tr>
             <tr>
               <td align="left">1408 - Mário | Mario</td>
