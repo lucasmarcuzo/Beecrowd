@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://www.beecrowd.com.br">
-<img  width="230"  height="150"  src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036">
+<img  width="240"  height="150"  src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036">
 </p>
 
 ## <img width="25" height="25" src="https://resources.beecrowd.com.br/judge/favicon.ico?1635097036"> Desafios Solucionados: (Challenges Solved:) <br>
@@ -21,10 +21,10 @@
             </tr>
             <tr>
                 <th>PROBLEMA | PROBLEM</th>
-                <th>C#</th>
-                <th>Java</th>
-                <th>Kotlin</th>
-                <th>JS</th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/csharp-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/java-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/kotlin-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/javascript-icon.png"></img></th>
             </tr>
             <tr>
                 <td align="left">1000 - Hello World!</td>
@@ -3538,10 +3538,10 @@
             </tr>
             <tr>
                 <th>Problema | Problem</th>
-                <th>C#</th>
-                <th>Java</th>
-                <th>Kotlin</th>
-                <th>JS</th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/csharp-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/java-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/kotlin-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/javascript-icon.png"></img></th>
             </tr>
             <tr>
               <td align="left">1087 - Dama | Queen</td>
@@ -3858,10 +3858,10 @@
             </tr>
             <tr>
                 <th>Problema | Problem</th>
-                <th>C#</th>
-                <th>Java</th>
-                <th>Kotlin</th>
-                <th>JS</th>
+                 <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/csharp-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/java-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/kotlin-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/javascript-icon.png"></img></th>
             </tr>
             <tr>
              <td align="left">1238 - Combinador | Combiner</td>
@@ -3928,10 +3928,10 @@
             </tr>
             <tr>
                 <th>Problema | Problem</th>
-                <th>C#</th>
-                <th>Java</th>
-                <th>Kotlin</th>
-                <th>JS</th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/csharp-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/java-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/kotlin-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/javascript-icon.png"></img></th>
            </tr>
             <tr>
               <td align="left">1259 - Pares e Ímpares | Even and Odd</td>
@@ -4021,11 +4021,10 @@
                 <th colspan="5"></th>
            </tr>
             <tr>
-                <th>Problema</th>
-                <th>C#</th>
-                <th>Java</th>
-                <th>Kotlin</th>
-                <th>JS</th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/csharp-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/java-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/kotlin-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/javascript-icon.png"></img></th>
             </tr>
             <tr>
              <td align="left">1169 - Trigo no Tabuleiro | Grains in a Chess Board</td>
@@ -4162,10 +4161,10 @@
            </tr>
             <tr>
                 <th>Problema | Problem</th>
-                <th>C#</th>
-                <th>Java</th>
-                <th>Kotlin</th>
-                <th>JS</th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/csharp-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/java-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/kotlin-icon.png"></img></th>
+                <th align="center"><img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/javascript-icon.png"></img></th>
             </tr>
             <tr>
               <td align="left">1408 - Mário | Mario</td>
