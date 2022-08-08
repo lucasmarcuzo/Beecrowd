@@ -1,4 +1,4 @@
-## Desafios realizados no Beecrowd em: (Challenges held on Beecrowd in:) <br> [![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java) [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5??style=flat&logo=kotlin&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin) [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20SQL)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20SQL) [![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20JavaScript)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20JavaScript)
+## Challenges held on Beecrowd in: [![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20C%23) [![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java) [![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5??style=flat&logo=kotlin&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin) [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20SQL)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20SQL) [![JavaScript Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E&link=https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20JavaScript)](https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20JavaScript)
 
 
 <p align="center">
@@ -6,7 +6,7 @@
 <img  width="240"  height="150"  src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036">
 </p>
 
-## <img width="25" height="25" src="https://resources.beecrowd.com.br/judge/favicon.ico?1635097036"> Desafios Solucionados: (Challenges Solved:) <br>
+## <img width="25" height="25" src="https://resources.beecrowd.com.br/judge/favicon.ico?1635097036"> Challenges Solved: <br>
 
 <details>
     <summary><strong> 1 - INICIANTE | BEGINNER </strong></summary>
@@ -4560,7 +4560,7 @@
 </details>  
 
 
-## 📱 Contato: (Contact:)
+## 📱 Contact:
 
 <div align="left">
     <a href="https://github.com/lucasmarcuzo" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" alt="GitHub-lucasmarcuzo" height="30" width="40" />
@@ -4581,11 +4581,11 @@
 </div>
 
 
-## 📃Licença: (License:)
+## 📃License:
 
 [![C# Badge](https://img.shields.io/github/license/lucasmarcuzo/Beecrowd?&link=https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)](https://pt.wikipedia.org/wiki/Licen%C3%A7a_MIT)   
 
 
-<div align="right"> <h3> - Obrigado pela visita! (Thanks for visiting!) ✌🏻 </h3> </div> 
+<div align="right"> <h3> - Thanks for visiting! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"> </h3> </div> 
 <p align="right"> 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/URI"> </h3> </p>
