@@ -6,7 +6,7 @@
 <img  width="240"  height="150"  src="https://resources.beecrowd.com.br/judge/img/5.0/logo-beecrowd.png?1635097036">
 </p>
 
-## <img width="25" height="25" src="https://resources.beecrowd.com.br/judge/favicon.ico?1635097036"> Challenges Solved: <br>
+## <img width="25" height="25" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036"> Challenges Solved: <br>
 
 <details>
     <summary><strong> 1 - INICIANTE | BEGINNER </strong></summary>
