@@ -888,8 +888,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1051%20-%20Imposto%20de%20Renda">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -911,8 +911,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1052%20-%20M%C3%AAs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -934,8 +934,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1059%20-%20N%C3%BAmeros%20Pares">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -957,8 +957,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1060%20-%20N%C3%BAmeros%20Positivos">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -980,8 +980,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1061%20-%20Tempo%20de%20um%20Evento">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -1003,8 +1003,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1064%20-%20Positivos%20e%20M%C3%A9dia">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -2021,6 +2021,29 @@
                 </td>
                 <td align="center">
                     <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1159%20-%20Soma%20de%20Pares%20Consecutivos.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
+             <tr>
+             <td align="left">1160 - Crescimento Populacional | Population growth</td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20C%23/1160%20-%20Crescimento%20Populacional.cs">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Java/1160_Crescimento%20Populacional">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1160%20-%20Crescimento%20Populacional">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1160%20-%20Crescimento%20Populacional.js">
                         <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
@@ -4203,8 +4226,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1408%20-%20M%C3%A1rio">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
