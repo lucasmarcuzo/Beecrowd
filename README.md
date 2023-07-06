@@ -3624,13 +3624,13 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1171%20-%20Frequ%C3%AAncia%20de%20N%C3%BAmeros">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20JavaScript/1171%20-%20Frequ%C3%AAncia%20de%20N%C3%BAmeros.js">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
             </tr>
