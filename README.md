@@ -3670,8 +3670,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1769%20-%20CPF%201">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -3693,8 +3693,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1786%20-%20CPF%202">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -3716,8 +3716,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1893%20-%20Fases%20da%20Lua">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -3739,8 +3739,8 @@
                     </a>
                 </td>
                  <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1943%20-%20Top%20N">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -3761,8 +3761,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/2374%20-%20Pneu">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -3784,8 +3784,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/2409%20-%20Colch%C3%A3o">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -3807,8 +3807,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/2413%20-%20Busca%20na%20Internet">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -3830,8 +3830,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/2444%20-%20Volume%20da%20TV">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -3853,8 +3853,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/2679%20-%20Sucessor%20Par">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -3876,8 +3876,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/2927%20-%20Imprevistos%20Natalinos">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -3921,8 +3921,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1238%20-%20Combinador">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -3990,8 +3990,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1259%20-%20Pares%20e%20%C3%8Dmpares">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -4014,8 +4014,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/2633%20-%20Churras%20no%20Yuri">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -4085,8 +4085,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1169%20-%20Trigo%20no%20Tabuleiro">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -4108,8 +4108,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1240%20-%20Encaixa%20ou%20N%C3%A3o%20I">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -4131,8 +4131,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/1921%20-%20Guilherme%20e%20Suas%20Pipas">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -4154,8 +4154,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/2596%20-%20Xenlonguinho">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
@@ -4177,8 +4177,8 @@
                     </a>
                 </td>
                 <td align="center">
-                    <a href="">
-                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/tree/main/Desafios%20em%20Kotlin/2597%20-%20Xenlong%C3%A3o">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
                 <td align="center">
