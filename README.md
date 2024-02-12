@@ -4520,9 +4520,17 @@
                 </td>
             </tr>
             <tr>
-              <td align="left">2988 - Campeonato Cearense | 	Cearense Championship</td>
+              <td align="left">2988 - Campeonato Cearense | Cearense Championship</td>
                 <td align="center">
                     <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2988%20-%20Campeonato%20Cearense.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+              <td align="left">2989 - Departamentos e Divisões | Departments and Divisions</td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2989%20-%20Departamentos%20e%20Divis%C3%B5es.sql">
                         <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
@@ -4531,6 +4539,14 @@
               <td align="left">2990 - CPF Dos Empregados | Employees CPF</td>
                 <td align="center">
                     <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2990%20-%20CPF%20Dos%20Empregados.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+              <td align="left">2992 - Divisões Com Maiores Médias Salariais.sql | Highest Avarage Salary Divisions</td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2992%20-%20Divis%C3%B5es%20Com%20Maiores%20M%C3%A9dias%20Salariais.sql">
                         <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
@@ -4576,7 +4592,7 @@
                 </td>
             </tr>
             <tr>
-              <td align="left">2998 - The Payback | 	The Payback</td>
+              <td align="left">2998 - The Payback | The Payback</td>
                 <td align="center">
                     <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/2998%20-%20The%20Payback.sql">
                         <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
@@ -4595,6 +4611,38 @@
               <td align="left">3001 - Update sem Where | Update sem Where</td>
                 <td align="center">
                     <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/3001%20-%20Update%20sem%20Where.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
+             <tr>
+              <td align="left">3480 - Cadeiras adjacentes | Adjacent Chairs</td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/3480%20-%20Cadeiras%20adjacentes.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
+             <tr>
+              <td align="left">3481 - Classificando uma Árvore | Classifying a Tree</td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/3481%20-%20Classificando%20uma%20%C3%81rvore.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
+             <tr>
+              <td align="left">3482 - Seguidores | Followers</td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/3482%20-%20Seguidores.sql">
+                        <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+            </tr>
+             <tr>
+              <td align="left">3483 - Segundo Maior e Menor | Second Largest and Smallest</td>
+                <td align="center">
+                    <a href="https://github.com/lucasmarcuzo/Beecrowd/blob/main/Desafios%20em%20SQL/3483%20-%20Segundo%20Maior%20e%20Menor.sql">
                         <img src="https://github.com/lucasmarcuzo/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
